@@ -1,6 +1,6 @@
 {
   "fileRelativePath": "data/config.json",
-  "title": "Test",
+  "title": "Test1",
   "description": "Starter blog using Tina CMS with Next.js.",
   "repositoryUrl": "https://github.com/albert-dev1/tina-json"
 }
